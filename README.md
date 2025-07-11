@@ -66,7 +66,7 @@ Molecular Evolution, Ecology, Pathogens, Genetic Diseases, and Conservation Biol
 <br/>
 
 <a href="https://github.com/naborlozada">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=naborlozada&theme=buefy&show_icons=true" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=naborlozada&theme=buefy&show_icons=true" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naborlozada&theme=buefy&layout=compact" />
 </a>
 
@@ -88,6 +88,8 @@ Content in English and Spanish.
 <a href="https://orcid.org/0000-0002-7230-3903"><img alt="ORCID" src="https://img.shields.io/badge/ORCID-Alejandro%20Lozada-blue?style=flat-square&logo=ORCID"></a>
 <a href="https://www.linkedin.com/in/alejandro-nabor-lozada-chavez/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Alejandro%20Lozada-blue?style=flat-square&logo=linkedIn"></a>
 <a href="https://scholar.google.com/citations?user=_3ni72cAAAAJ&hl=en/"><img alt="GoogleScholar" src="https://img.shields.io/badge/GoogleScholar-Alejandro%20Lozada-blue?style=flat-square&logo=GoogleScholar"></a>
+<a href="https://www.researchgate.net/profile/Alejandro-Lozada-Chavez&hl=en/"><img alt="ResearchGate" src="https://img.shields.io/badge/ResearchGate-Alejandro%20Lozada-blue?style=flat-square&logo=ResearchGate"></a>
+
 </p>
 
 
