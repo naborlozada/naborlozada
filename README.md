@@ -1,4 +1,4 @@
-<h2> Hey, I'm Alejandro Nabor Lozada Chavez! 👋</h2>
+<h2> Hey, I'm Alejandro Nabor Lozada Chávez! 👋</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -85,10 +85,10 @@ Content in English and Spanish.
 <h3> 🤝🏻 &nbsp; More about Me </h3>
 
 <p align="center">
-<a href="https://orcid.org/0000-0002-7230-3903"><img alt="ORCID" src="https://img.shields.io/badge/ORCID-Alejandro%20Lozada-blue?style=flat-square&logo=ORCID"></a>
-<a href="https://www.linkedin.com/in/alejandro-nabor-lozada-chavez/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Alejandro%20Lozada-blue?style=flat-square&logo=linkedIn"></a>
-<a href="https://scholar.google.com/citations?user=_3ni72cAAAAJ&hl=en/"><img alt="GoogleScholar" src="https://img.shields.io/badge/GoogleScholar-Alejandro%20Lozada-blue?style=flat-square&logo=GoogleScholar"></a>
-<a href="https://www.researchgate.net/profile/Alejandro-Lozada-Chavez&hl=en/"><img alt="ResearchGate" src="https://img.shields.io/badge/ResearchGate-Alejandro%20Lozada-blue?style=flat-square&logo=ResearchGate"></a>
+<a href="https://orcid.org/0000-0002-7230-3903"><img alt="ORCID" src="https://img.shields.io/badge/ORCID-Alejandro-blue?style=flat-square&logo=ORCID"></a>
+<a href="https://www.linkedin.com/in/alejandro-nabor-lozada-chavez/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Nabor-blue?style=flat-square&logo=linkedIn"></a>
+<a href="https://scholar.google.com/citations?user=_3ni72cAAAAJ&hl=en/"><img alt="GoogleScholar" src="https://img.shields.io/badge/GoogleScholar-Lozada-blue?style=flat-square&logo=GoogleScholar"></a>
+<a href="https://www.researchgate.net/profile/Alejandro-Lozada-Chavez&hl=en/"><img alt="ResearchGate" src="https://img.shields.io/badge/ResearchGate-Chávez-blue?style=flat-square&logo=ResearchGate"></a>
 
 </p>
 
