@@ -4,6 +4,16 @@ I'm an evolutionary biologist, curiosity-driven by puzzles associated to biologi
 As biologist, I'm deeply interested on microbial evolution and viruses on terrestial and aquatic environments, but also fascinated by the cellular, genomic, and populational complexity of eukaryotes.
 
 
+<h3> 🤝🏻 &nbsp; More about Me </h3>
+
+<p align="center">
+<a href="https://orcid.org/0000-0002-7230-3903"><img alt="ORCID" src="https://img.shields.io/badge/ORCID-Alejandro-blue?style=flat-square&logo=ORCID"></a>
+<a href="https://www.linkedin.com/in/alejandro-nabor-lozada-chavez/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Nabor-blue?style=flat-square&logo=linkedIn"></a>
+<a href="https://scholar.google.com/citations?user=_3ni72cAAAAJ&hl=en/"><img alt="GoogleScholar" src="https://img.shields.io/badge/GoogleScholar-Lozada-blue?style=flat-square&logo=GoogleScholar"></a>
+<a href="https://www.researchgate.net/profile/Alejandro-Lozada-Chavez&hl=en/"><img alt="ResearchGate" src="https://img.shields.io/badge/ResearchGate-Chávez-blue?style=flat-square&logo=ResearchGate"></a>
+
+</p>
+
 <h2> </h2>
 
 
@@ -53,6 +63,7 @@ As biologist, I'm deeply interested on microbial evolution and viruses on terres
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 
 
+
 <h2> </h2>
 
 This github site contains repositories associated to the following content:
@@ -60,40 +71,3 @@ This github site contains repositories associated to the following content:
 * Content associated to my lectures on different topics (biology and bioinformatics) given in some universities or research institutes.
 * Tutorials associated to book chapters, research papers, and step-by-step of miscellaneous protocols/stuff related to bioinformatics (mostly).
 
-Content in English and Spanish. 
-
-
-<h3> 🤝🏻 &nbsp; More about Me </h3>
-
-<p align="center">
-<a href="https://orcid.org/0000-0002-7230-3903"><img alt="ORCID" src="https://img.shields.io/badge/ORCID-Alejandro-blue?style=flat-square&logo=ORCID"></a>
-<a href="https://www.linkedin.com/in/alejandro-nabor-lozada-chavez/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Nabor-blue?style=flat-square&logo=linkedIn"></a>
-<a href="https://scholar.google.com/citations?user=_3ni72cAAAAJ&hl=en/"><img alt="GoogleScholar" src="https://img.shields.io/badge/GoogleScholar-Lozada-blue?style=flat-square&logo=GoogleScholar"></a>
-<a href="https://www.researchgate.net/profile/Alejandro-Lozada-Chavez&hl=en/"><img alt="ResearchGate" src="https://img.shields.io/badge/ResearchGate-Chávez-blue?style=flat-square&logo=ResearchGate"></a>
-
-</p>
-
-
-
-
-
-
-<!-- 
-NOTES:
-When adding a badge, two types of style format: "style=for-the-badge" and "style=flat".
-  ![Inkscape](https://img.shields.io/badge/-Inkscape-333333?style=flat&logo=adobe-Inkscape)
-  ![Adobe](https://img.shields.io/badge/adobe%20Illustrator-%23FF0000.svg?style=flat&logo=adobe&logoColor=white)
-  ![Illustrator](https://img.shields.io/badge/Illustrator-333333?style=flat&logo=adobe-illustrator)
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Xcode](https://img.shields.io/badge/-Xcode-333333?style=flat&logo=Xcode-ide&logoColor=2C2255)
-  ![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)
-
-- 🌱 &nbsp; Learning more about everything, but more about Biology, Parallel Computing, HPC Support, Machine Learning.
-  
-<a href="mailto:nabor.lozada@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-nabor.lozada@gmail.com-blue?style=flat-square&logo=gmail"></a>
-
-![Linux](http://img.shields.io/badge/-Linux-00000?style=for-the-badge&logo=linux)
-
--->
