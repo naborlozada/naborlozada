@@ -64,10 +64,3 @@ As biologist, I'm deeply interested on microbial evolution and viruses on terres
 
 
 
-<h2> </h2>
-
-This github site contains repositories associated to the following content:
-* My own scientific work as: a) main projects and collaboration, b) published, c) submitted, or c) preprint work. 
-* Content associated to my lectures on different topics (biology and bioinformatics) given in some universities or research institutes.
-* Tutorials associated to book chapters, research papers, and step-by-step of miscellaneous protocols/stuff related to bioinformatics (mostly).
-
