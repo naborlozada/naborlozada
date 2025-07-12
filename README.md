@@ -1,8 +1,10 @@
 <h2> Hello, World! 👋 </h2>
 
 I'm an evolutionary biologist, curiosity-driven by puzzles associated to biological questions and bioinformatic challenges. \
-As biologist, I'm deeply interested on microbial evolution and viruses on terrestial and aquatic environments, but also fascinated by the cellular, genomic, and populational complexity of eukaryotes.
 
+- As *biologist*, I'm deeply interested on microbial evolution and viruses on terrestial and aquatic environments, but also fascinated by the cellular, genomic, and populational complexity of eukaryotes.
+- As *bioinformatician*, I enjoy (😭🥵😵‍💫😅) performing large-scaled data analyses, create (and share) programs, pipelines, and packages that can solve one or different scientific tasks/questions. On the daily basis, I used different bioinformatics tools, and to overcome technical problems I continuosly learn new tools or methods. When required, I modify existing programs/packages/codes to improve performance.   
+- As *data analyst*, I also like to handle small or large, simple or complex datasets, so I can summarize them using statistics, tables, or figures that can provide a lot of clarity.
 
 <h3> 🤝🏻 &nbsp; More about Me </h3>
 
