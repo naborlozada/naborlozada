@@ -53,7 +53,7 @@ As biologist, I'm deeply interested on microbial evolution and viruses on terres
   ![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=flat&logo=LibreOffice&logoColor=white)
   ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat&logo=microsoft-office&logoColor=white)
   
-- 🎛️ &nbsp;
+-  🖥🗁 &nbsp;
   ![macOS](https://img.shields.io/badge/mac%20os-000000?style=flat&logo=macos&logoColor=F0F0F0)
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
   ![Cent OS](https://img.shields.io/badge/cent%20os-002260?style=flat&logo=centos&logoColor=F0F0F0)
