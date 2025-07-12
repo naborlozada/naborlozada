@@ -1,13 +1,8 @@
 <h2> Hey, I'm Alejandro Nabor Lozada Chávez! 👋</h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
-
 I'm an evolutionary biologist, curiosity-driven by puzzles associated to biological questions and bioinformatic challenges. \
-**As biologist, I'm deeply interested on microbial evolution and viruses on terrestial and aquatic environments, but also fascinated by the cellular, genomic, and populational complexity of eukaryotes.\
-Molecular Evolution, Ecology, Pathogens, Genetic Diseases, and Conservation Biology are general interest**.
+As biologist, I'm deeply interested on microbial evolution and viruses on terrestial and aquatic environments, but also fascinated by the cellular, genomic, and populational complexity of eukaryotes.
 
-- 🎓 &nbsp; UNAM & UAM-X (CDMX, Mexico), HHU (Düsseldorf-Jena-Leipzig, Germany).
-- 👷 &nbsp; University of Pavia (Pavia, Italy).
 
 <h2> </h2>
 
@@ -61,16 +56,6 @@ Molecular Evolution, Ecology, Pathogens, Genetic Diseases, and Conservation Biol
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 
-
-<h2> </h2>
-<br/>
-
-<a href="https://github.com/naborlozada">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=naborlozada&theme=buefy&show_icons=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naborlozada&theme=buefy&layout=compact" />
-</a>
-
-<br/>
 
 <h2> </h2>
 
